@@ -1,0 +1,17 @@
+{
+	"name": "NodejsStarterApp",
+	"version": "0.0.1",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "4.13.x",
+		"mongodb": "^2.0.45",
+        "moment": "^2.13.0",
+		"cfenv": "1.0.x"
+	},
+	"repository": {},
+	"engines": {
+		"node": "4.x"
+	} 
+}
